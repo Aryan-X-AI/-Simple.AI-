@@ -1,0 +1,10 @@
+english = float(input("Please enter English Marks = "))
+math = float(input("Please enter Math score =  "))
+AI = float(input("Please enter AI Marks = "))
+science = float(input("Please enter science Marks = "))
+hindi = float(input("Please enter hindi Marks =  "))
+
+total = english + math + AI + science + hindi
+percentage = (total / 500) * 100
+
+print("Marks Percentage = " , percentage)
