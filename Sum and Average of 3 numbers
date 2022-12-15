@@ -1,0 +1,6 @@
+x = input('Enter first number = ')
+y = input('Enter second number = ')
+z = input('Enter third number = ')
+sum = float(x)+float(y)+float(z)
+Average = float(sum/3)
+print('The average of all number is = ',Average)
