@@ -1,0 +1,6 @@
+a = float(input('Enter first number = '))
+b = float(input('Enter second number = '))
+c = float(input('Enter third number =  '))
+d = float(input('Enter fourth number = '))
+val = a+b-c*d
+print("Answer Of the Arathematic Operation is =" ,val)
