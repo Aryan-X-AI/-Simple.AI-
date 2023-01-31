@@ -1,0 +1,10 @@
+x = float(input("Enter the first number = "))
+y = float(input("Enter second number = "))
+a = x+y
+b = x-y
+c = x*y
+d = x/y
+print("The sum of ",x,"and ",y, "is  = ",a)
+print("The substraction of ",x,"and ",y, "is  = ",b)
+print("The multiplication of ",x,"and ",y, "is  = ",c)
+print("The division of ",x,"and ",y, "is  = ",d)
