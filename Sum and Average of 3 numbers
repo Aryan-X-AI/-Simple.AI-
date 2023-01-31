@@ -1,6 +1,7 @@
-x = float(input('Enter first number = '))
-y = float(input('Enter second number = '))
-z = float(input('Enter third number = '))
-sum = float(x)+float(y)+float(z)
-Average = float(sum/3)
-print('The average of all number is = ',Average)
+x = float(input("Enter first number = "))
+y = float(input("Enter second number = " ))
+z = float(input("Enter third number = " ))
+sum = x+y+z
+Average = sum/3
+print("The sum of all number is = ", sum)
+print("The average of all number is = ",Average)
